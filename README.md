@@ -52,12 +52,14 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
-
+<img width="1075" alt="top_performing_schools" src="https://user-images.githubusercontent.com/79863465/132572840-f926f2b9-853a-493b-b0af-d5064b42a0ba.png">
 
 
 # Bottom Performing Schools (By % Overall Passing)
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+
+<img width="1077" alt="bottom_performing_schools" src="https://user-images.githubusercontent.com/79863465/132572880-53da986b-8db8-4e00-a94f-601d1898c674.png">
 
 
 # Math Scores by Grade
