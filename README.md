@@ -16,7 +16,7 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
-
+<img width="1022" alt="district_summary" src="https://user-images.githubusercontent.com/79863465/132572328-d927d6fe-f7b5-47a4-8bb6-03c9eca34edf.png">
 
 
 # School Summary
@@ -34,7 +34,7 @@ Create an overview table that summarizes key metrics about each school, includin
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
-
+<img width="1075" alt="school_summary" src="https://user-images.githubusercontent.com/79863465/132572371-03e864b4-2a57-4fbf-a83e-f63e840a05e9.png">
 
 
 # Top Performing Schools (By % Overall Passing)
