@@ -96,6 +96,8 @@ Create a table that breaks down school performances based on average Spending Ra
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+<img width="851" alt="Screen Shot 2021-09-08 at 2 41 24 PM" src="https://user-images.githubusercontent.com/79863465/132574823-356b6537-1b14-4b34-ae4e-5e2fadf0ff0d.png">
+
 
 # Scores by School Type
 
