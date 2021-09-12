@@ -108,3 +108,5 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 # Contact
 Email: cgrace1011@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/caroline-larry-9112b0187/
+
