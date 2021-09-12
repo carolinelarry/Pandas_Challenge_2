@@ -105,6 +105,6 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 
 <img width="768" alt="scores_by_type" src="https://user-images.githubusercontent.com/79863465/132574367-437a109c-5dcf-486b-ae97-853869ef91d9.png">
 
-## Contact
+# Contact
 Email: cgrace1011@gmail.com
 
